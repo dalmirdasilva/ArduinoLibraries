@@ -106,3 +106,12 @@
 [submodule "ArduinoWeatherSensorsDriver"]
   path = ArduinoWeatherSensorsDriver
   url = git@github.com:dalmirdasilva/ArduinoWeatherSensorsDriver.git
+[submodule "ArduinoCarMonitor"]
+	path = ArduinoCarMonitor
+	url = git@github.com:dalmirdasilva/ArduinoCarMonitor.git
+[submodule "NazaDecoder"]
+	path = NazaDecoder
+	url = git@github.com:dalmirdasilva/NazaDecoder.git
+[submodule "ResourceBasedFileSystem"]
+	path = ResourceBasedFileSystem
+	url = git@github.com:dalmirdasilva/ResourceBasedFileSystem.git
