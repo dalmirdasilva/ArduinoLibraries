@@ -55,9 +55,6 @@
 [submodule "ArduinoRSLibrary"]
   path = ArduinoRSLibrary
   url = git@github.com:dalmirdasilva/ArduinoRSLibrary.git
-[submodule "ArduinoEclipse"]
-  path = ArduinoEclipse
-  url = git@github.com:dalmirdasilva/ArduinoEclipse.git
 [submodule "ArduinoGsmDriver"]
   path = ArduinoGsmDriver
   url = git@github.com:dalmirdasilva/ArduinoGsmDriver.git
@@ -115,3 +112,15 @@
 [submodule "ResourceBasedFileSystem"]
 	path = ResourceBasedFileSystem
 	url = git@github.com:dalmirdasilva/ResourceBasedFileSystem.git
+[submodule "ArduinoRealTimeClock"]
+	path = ArduinoRealTimeClock
+	url = git@github.com:dalmirdasilva/ArduinoRealTimeClock.git
+[submodule "ArduinoOrientationGame"]
+	path = ArduinoOrientationGame
+	url = git@github.com:dalmirdasilva/ArduinoOrientationGame.git
+[submodule "ArduinoMessagingProtocol"]
+	path = ArduinoMessagingProtocol
+	url = git@github.com:dalmirdasilva/ArduinoMessagingProtocol.git
+[submodule "ArduinoEclipseSketch"]
+	path = ArduinoEclipseSketch
+	url = git@github.com:dalmirdasilva/ArduinoEclipseSketch.git
