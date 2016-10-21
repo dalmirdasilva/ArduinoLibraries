@@ -124,3 +124,12 @@
 [submodule "ArduinoEclipseSketch"]
 	path = ArduinoEclipseSketch
 	url = git@github.com:dalmirdasilva/ArduinoEclipseSketch.git
+[submodule "ArduinoRadioFrequencyIdentification"]
+	path = ArduinoRadioFrequencyIdentification
+	url = git@github.com:dalmirdasilva/ArduinoRadioFrequencyIdentification
+[submodule "ArduinoAttentionDevice"]
+	path = ArduinoAttentionDevice
+	url = git@github.com:dalmirdasilva/ArduinoAttentionDevice
+[submodule "ArduinoSecretPatternLock"]
+	path = ArduinoSecretPatternLock
+	url = git@github.com:dalmirdasilva/ArduinoSecretPatternLock
