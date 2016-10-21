@@ -100,9 +100,6 @@
 [submodule "ArduinoRemote"]
   path = ArduinoRemote
   url = git@github.com:dalmirdasilva/ArduinoRemote.git
-[submodule "ArduinoWeatherSensorsDriver"]
-  path = ArduinoWeatherSensorsDriver
-  url = git@github.com:dalmirdasilva/ArduinoWeatherSensorsDriver.git
 [submodule "ArduinoCarMonitor"]
 	path = ArduinoCarMonitor
 	url = git@github.com:dalmirdasilva/ArduinoCarMonitor.git
