@@ -130,3 +130,6 @@
 [submodule "ArduinoSecretPatternLock"]
 	path = ArduinoSecretPatternLock
 	url = git@github.com:dalmirdasilva/ArduinoSecretPatternLock
+[submodule "ArduinoWeatherSensorsDriver"]
+	path = ArduinoWeatherSensorsDriver
+	url = git@github.com:dalmirdasilva/ArduinoWeatherSensorsDriver
