@@ -133,3 +133,6 @@
 [submodule "ArduinoWeatherSensorsDriver"]
 	path = ArduinoWeatherSensorsDriver
 	url = git@github.com:dalmirdasilva/ArduinoWeatherSensorsDriver
+[submodule "ArduinoFrequencyModulationReceiver"]
+	path = ArduinoFrequencyModulationReceiver
+	url = git@github.com:dalmirdasilva/ArduinoFrequencyModulationReceiver.git
